@@ -43,8 +43,11 @@ const App = () => {
   return (
     <main>
       <article className='review'>
-        <div className="img-contaienr">
+        <div className="img-container">
           <img className='person-img' src={users[index].image} alt="" />
+          <span className='quote-icon'>
+            <FaQuoteRight />
+          </span>
         </div>
         <h4 className='author'>{users[index].name}</h4>
         <p className='job'>{users[index].job}</p>
