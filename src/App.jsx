@@ -16,6 +16,14 @@ const App = () => {
     }
   }
 
+  function onNextPerson() {
+    if (index === users.length - 1) {
+      setIndex(0)
+    } else {
+      setIndex(index + 1)
+    }
+  }
+
   if (!users) return <div>Loading...</div>
   const { id, name, job, image, text } = users
 
@@ -32,7 +40,7 @@ const App = () => {
           <button onClick={onPrevPerson} className='prev-btn' >
             <FaChevronLeft />
           </button>
-          <button className='next-btn' >
+          <button onClick={onNextPerson} className='next-btn' >
             <FaChevronRight />
           </button>
         </div>
