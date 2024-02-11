@@ -1,4 +1,5 @@
 🎉 React Testimonials Carousel
+
 This React application displays a testimonials carousel featuring quotes from various users. Users can navigate through the testimonials using the left and right arrow buttons or opt for a surprise quote by clicking the "Surprise me" button.
 
 📦 Tech Stack:
@@ -24,9 +25,11 @@ This React application displays a testimonials carousel featuring quotes from va
 * Add support for touch gestures for mobile users.
 * Enhance accessibility by adding keyboard navigation support.
 
-🚦 Running the Project:
-Clone the repository from GitHub.
-Navigate to the project directory in your terminal.
-Run npm install to install dependencies.
-Run npm start to start the development server.
-Open your browser and visit http://localhost:3000 to view the application.
+🚦 Running the Project: To run the project locally:
+1. Clone the repository from GitHub.
+2. Navigate to the project directory in your terminal.
+3. Run npm install to install dependencies.
+4. Run npm run dev to start the development server.
+5. Open your browser and navigate to http://localhost:5173 to view the application.
+
+![ללא שם](https://github.com/Amir2210/Reviews/assets/107459404/46d18b41-cd0e-434e-bd63-2de1dde7b444)
