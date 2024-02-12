@@ -32,4 +32,7 @@ This React application displays a testimonials carousel featuring quotes from va
 4. Run npm run dev to start the development server.
 5. Open your browser and navigate to http://localhost:5173 to view the application.
 
-![ללא שם](https://github.com/Amir2210/Reviews/assets/107459404/46d18b41-cd0e-434e-bd63-2de1dde7b444)
+
+
+https://github.com/Amir2210/Reviews/assets/107459404/4ede752b-9142-4944-a31c-c40030316ec3
+
